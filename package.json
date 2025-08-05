@@ -1,0 +1,11 @@
+{
+  "name": "node-js-mustache",
+  "version": "1.0.0",
+  "description": "Belajar Node JS Mustache",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mazaro Yusuf Gunardiawan",
+  "license": "ISC"
+}
